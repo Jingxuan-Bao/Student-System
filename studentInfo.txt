@@ -1,0 +1,2 @@
+002; StudentName2; testStudent02; password590; CIT593: A-
+001; StudentName1; testStudent01; password590; CIS320: A
